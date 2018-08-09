@@ -18,4 +18,4 @@ To run the code that builds the models:
 3. The model can be run using 'python models.py'
 
 
-The file presentation.pdf includes a summary of the findings from this analysis.
+The file yelp_presentation.pdf includes a summary of the findings from this analysis.
